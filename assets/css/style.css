@@ -85,7 +85,7 @@
 }
 
 .datos .boxdatos i{
-    font-size: 10px;
+    font-size: 12px;
     color: green;
 }
 
@@ -134,7 +134,7 @@
 }
 
 .datos2 .off{
-    color: orange;
+    color: red;
 }
 
 .chat .btn:hover{
